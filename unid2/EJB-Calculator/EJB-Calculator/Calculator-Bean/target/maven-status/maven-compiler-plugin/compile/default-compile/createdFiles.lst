@@ -1,0 +1,5 @@
+br\ufrn\imd\web2\calculator\bean\NoInterfaceViewCalculatorBean.class
+br\ufrn\imd\web2\calculator\bean\CalculatorRemote.class
+br\ufrn\imd\web2\calculator\bean\Calculator.class
+br\ufrn\imd\web2\calculator\bean\CalculatorLocal.class
+br\ufrn\imd\web2\calculator\bean\CalculatorBeanBase.class
